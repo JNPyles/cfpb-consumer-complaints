@@ -1,0 +1,2 @@
+# Overview
+The CFPB collects and publishes data on consumer complaints about financial products and services. This repository aims to explore, analyze, and derive insights from this rich dataset using various statistical and machine learning techniques. The analysis includes exploratory data analysis (EDA), data visualization, and natural language processing (NLP) to uncover patterns and trends in consumer complaints.
